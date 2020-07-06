@@ -1,0 +1,1 @@
+trim_galore -q 20 -max_n 50 --illumina --fastqc *.fastq.gz &

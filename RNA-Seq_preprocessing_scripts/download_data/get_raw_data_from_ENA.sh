@@ -1,0 +1,1 @@
+while read -r line; do echo "$line"; axel -n 35 "$line"; done < PRJ*
